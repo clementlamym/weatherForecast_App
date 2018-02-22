@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">天氣預報</string>
+    <string name="mainText">請選擇地區</string>
+    <string name="downloading">正在下載資料中</string>
+    <string name="downloadFailed">資料下載失敗，請檢查網絡連線</string>
+    <string name="okText">OK</string>
+    <string name="weatherText">本日天氣</string>
+    <string name="maxTempText">最高溫度：</string>
+    <string name="minTempText">最低溫度：</string>
+    <string name="recommendationText">建議：</string>
+    <string name="rainAlert">本日有可能會下雨，建議準備雨具</string>
+    <string name="lowTempAlert">本日氣溫偏低，建議做好保暖措施</string>
+    <string name="backText">返回地區選擇</string>
+    <string name="settingsText">設定</string>
+    <string name="notifyText">定時通知功能</string>
+    <string name="notifyExplain">本App可以在指定時間，以推送通知方式告知當日天氣預報</string>
+    <string name="nowNotify1">現在設定於</string>
+    <string name="nowNotify2">會推送通知</string>
+    <string name="setTime">設定通知時間</string>
+    <string name="setLocation">設定地區</string>
+    <string name="nowLocation1">現在設定通知</string>
+    <string name="nowLocation2">的天氣</string>
+    <string name="warningText">注意: 您必須設定時間與地區，通知功能才會生效</string>
+    <string name="validateText">現在通知功能已生效</string>
+    <string name="creditText">本App由1021538 林彥汶製作</string>
+    <string name="am">上午</string>
+    <string name="pm">下午</string>
+</resources>

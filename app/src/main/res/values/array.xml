@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="locationList">
+        <item>臺北市</item>
+        <item>北部地區</item>
+        <item>中部地區</item>
+        <item>南部地區</item>
+        <item>東北部地區</item>
+        <item>東部地區</item>
+        <item>東南部地區</item>
+        <item>澎湖地區</item>
+        <item>金門地區</item>
+        <item>馬祖地區</item>
+        <item>陽明山</item>
+        <item>拉拉山</item>
+        <item>梨山</item>
+        <item>合歡山</item>
+        <item>日月潭</item>
+        <item>溪頭</item>
+        <item>阿里山</item>
+        <item>玉山</item>
+        <item>墾丁</item>
+        <item>小琉球</item>
+        <item>龍洞(東北角風景區)</item>
+        <item>太魯閣</item>
+        <item>三仙台(東部風景區)</item>
+        <item>綠島</item>
+        <item>蘭嶼</item>
+    </string-array>
+</resources>
